@@ -1,0 +1,13 @@
+default:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      threads: 16
+      account: ZKGWROU-CYB45720
+      user: IBRAHIMJANJUS
+      database: analytics
+      warehouse: transforming
+      schema: dbt_ijanjua
+      password: Bechtel123456^
+      role: ACCOUNTADMIN
